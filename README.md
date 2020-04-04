@@ -1,2 +1,2 @@
 # Jupyter-basics
-This repository is basically storing the basic stuffs of Jupyter notebook
+This repository is basically for storing the basic stuffs of Jupyter notebook
